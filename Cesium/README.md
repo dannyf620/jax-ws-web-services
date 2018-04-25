@@ -30,3 +30,9 @@ To see the apps copy the folders and files into the Apps forlder, the Data folde
 > http://localhost:8080/Cesium/Apps/Colombia/poblacion.html
 
 > http://localhost:8080/Cesium/Apps/Colombia/pib.html
+
+<p align="center">
+  <img src="./pibColombia.JPG" width="350"/>
+  <img src="./PoblacionColombia.JPG" width="350"/>
+  <img src="./casa.JPG" width="350"/>
+</p>
