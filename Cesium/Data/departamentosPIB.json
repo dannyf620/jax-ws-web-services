@@ -1,0 +1,299 @@
+[
+  {
+    "Departamento": "ANTIOQUIA",
+    "PIB_PorcentajeParticipacion.": "13.90%",
+    "Poblacion": 6299990,
+    "PIB_millones_USD": 42579,
+    "PPA_Miles_millones_USD": 61328,
+    "PIB_per_capita_USD": 6.93,
+    "PIB_per_capita_PPA_USD": 9.982
+  },
+  {
+    "Departamento": "ATLANTICO",
+    "PIB_PorcentajeParticipacion.": "4.20%",
+    "Poblacion": 2402910,
+    "PIB_millones_USD": 12182,
+    "PPA_Miles_millones_USD": 17546,
+    "PIB_per_capita_USD": 5.197,
+    "PIB_per_capita_PPA_USD": 7.485
+  },
+  {
+    "Departamento": "SANTAFE DE BOGOTA D.C",
+    "PIB_PorcentajeParticipacion.": "25.70%",
+    "Poblacion": 7878783,
+    "PIB_millones_USD": 80424,
+    "PPA_Miles_millones_USD": 115837,
+    "PIB_per_capita_USD": 10.769,
+    "PIB_per_capita_PPA_USD": 15.551
+  },
+  {
+    "Departamento": "BOLIVAR",
+    "PIB_PorcentajeParticipacion.": "4.20%",
+    "Poblacion": 2049109,
+    "PIB_millones_USD": 13160,
+    "PPA_Miles_millones_USD": 18954,
+    "PIB_per_capita_USD": 6.572,
+    "PIB_per_capita_PPA_USD": 9.466
+  },
+  {
+    "Departamento": "BOYACA",
+    "PIB_PorcentajeParticipacion.": "2.90%",
+    "Poblacion": 1272855,
+    "PIB_millones_USD": 9090,
+    "PPA_Miles_millones_USD": 13093,
+    "PIB_per_capita_USD": 7.161,
+    "PIB_per_capita_PPA_USD": 10.314
+  },
+  {
+    "Departamento": "CALDAS",
+    "PIB_PorcentajeParticipacion.": "1.50%",
+    "Poblacion": 984115,
+    "PIB_millones_USD": 4935,
+    "PPA_Miles_millones_USD": 7108,
+    "PIB_per_capita_USD": 5.034,
+    "PIB_per_capita_PPA_USD": 7.251
+  },
+  {
+    "Departamento": "CAQUETA",
+    "PIB_PorcentajeParticipacion.": "0.50%",
+    "Poblacion": 465487,
+    "PIB_millones_USD": 1350,
+    "PPA_Miles_millones_USD": 1945,
+    "PIB_per_capita_USD": 2.977,
+    "PIB_per_capita_PPA_USD": 4.289
+  },
+  {
+    "Departamento": "CAUCA",
+    "PIB_PorcentajeParticipacion.": "1.80%",
+    "Poblacion": 1354733,
+    "PIB_millones_USD": 4631,
+    "PPA_Miles_millones_USD": 6671,
+    "PIB_per_capita_USD": 3.48,
+    "PIB_per_capita_PPA_USD": 5.013
+  },
+  {
+    "Departamento": "CESAR",
+    "PIB_PorcentajeParticipacion.": "1.80%",
+    "Poblacion": 1004058,
+    "PIB_millones_USD": 6986,
+    "PPA_Miles_millones_USD": 10063,
+    "PIB_per_capita_USD": 7.136,
+    "PIB_per_capita_PPA_USD": 10.278
+  },
+  {
+    "Departamento": "CORDOBA",
+    "PIB_PorcentajeParticipacion.": "1.80%",
+    "Poblacion": 1658067,
+    "PIB_millones_USD": 5625,
+    "PPA_Miles_millones_USD": 8102,
+    "PIB_per_capita_USD": 3.5,
+    "PIB_per_capita_PPA_USD": 5.04
+  },
+  {
+    "Departamento": "CUNDINAMARCA",
+    "PIB_PorcentajeParticipacion.": "5.30%",
+    "Poblacion": 2598245,
+    "PIB_millones_USD": 16077,
+    "PPA_Miles_millones_USD": 23157,
+    "PIB_per_capita_USD": 6.387,
+    "PIB_per_capita_PPA_USD": 9.199
+  },
+  {
+    "Departamento": "CHOCO",
+    "PIB_PorcentajeParticipacion.": "0.40%",
+    "Poblacion": 490317,
+    "PIB_millones_USD": 1903,
+    "PPA_Miles_millones_USD": 2741,
+    "PIB_per_capita_USD": 3.957,
+    "PIB_per_capita_PPA_USD": 5.7
+  },
+  {
+    "Departamento": "HUILA",
+    "PIB_PorcentajeParticipacion.": "1.80%",
+    "Poblacion": 1126316,
+    "PIB_millones_USD": 6107,
+    "PPA_Miles_millones_USD": 8796,
+    "PIB_per_capita_USD": 5.564,
+    "PIB_per_capita_PPA_USD": 8.014
+  },
+  {
+    "Departamento": "LA GUAJIRA",
+    "PIB_PorcentajeParticipacion.": "1.00%",
+    "Poblacion": 902367,
+    "PIB_millones_USD": 4240,
+    "PPA_Miles_millones_USD": 6107,
+    "PIB_per_capita_USD": 5.008,
+    "PIB_per_capita_PPA_USD": 7.213
+  },
+  {
+    "Departamento": "MAGDALENA",
+    "PIB_PorcentajeParticipacion.": "1.30%",
+    "Poblacion": 1235532,
+    "PIB_millones_USD": 4362,
+    "PPA_Miles_millones_USD": 6283,
+    "PIB_per_capita_USD": 3.598,
+    "PIB_per_capita_PPA_USD": 5.182
+  },
+  {
+    "Departamento": "META",
+    "PIB_PorcentajeParticipacion.": "3.30%",
+    "Poblacion": 924871,
+    "PIB_millones_USD": 17753,
+    "PPA_Miles_millones_USD": 25571,
+    "PIB_per_capita_USD": 19.975,
+    "PIB_per_capita_PPA_USD": 28.771
+  },
+  {
+    "Departamento": "NARIÑO",
+    "PIB_PorcentajeParticipacion.": "1.60%",
+    "Poblacion": 1701782,
+    "PIB_millones_USD": 4875,
+    "PPA_Miles_millones_USD": 7021,
+    "PIB_per_capita_USD": 2.936,
+    "PIB_per_capita_PPA_USD": 4.229
+  },
+  {
+    "Departamento": "NORTE DE SANTANDER",
+    "PIB_PorcentajeParticipacion.": "1.70%",
+    "Poblacion": 1332378,
+    "PIB_millones_USD": 5426,
+    "PPA_Miles_millones_USD": 7816,
+    "PIB_per_capita_USD": 4.145,
+    "PIB_per_capita_PPA_USD": 5.97
+  },
+  {
+    "Departamento": "QUINDIO",
+    "PIB_PorcentajeParticipacion.": "1.60%",
+    "Poblacion": 558969,
+    "PIB_millones_USD": 2394,
+    "PPA_Miles_millones_USD": 3448,
+    "PIB_per_capita_USD": 4.331,
+    "PIB_per_capita_PPA_USD": 6.238
+  },
+  {
+    "Departamento": "RISARALDA",
+    "PIB_PorcentajeParticipacion.": "1.50%",
+    "Poblacion": 941275,
+    "PIB_millones_USD": 4805,
+    "PPA_Miles_millones_USD": 6921,
+    "PIB_per_capita_USD": 5.164,
+    "PIB_per_capita_PPA_USD": 7.437
+  },
+  {
+    "Departamento": "SANTANDER",
+    "PIB_PorcentajeParticipacion.": "7.70%",
+    "Poblacion": 2040932,
+    "PIB_millones_USD": 24053,
+    "PPA_Miles_millones_USD": 34644,
+    "PIB_per_capita_USD": 11.903,
+    "PIB_per_capita_PPA_USD": 17.145
+  },
+  {
+    "Departamento": "SUCRE",
+    "PIB_PorcentajeParticipacion.": "0.80%",
+    "Poblacion": 834937,
+    "PIB_millones_USD": 2416,
+    "PPA_Miles_millones_USD": 3479,
+    "PIB_per_capita_USD": 2.951,
+    "PIB_per_capita_PPA_USD": 4.25
+  },
+  {
+    "Departamento": "TOLIMA",
+    "PIB_PorcentajeParticipacion.": "2.20%",
+    "Poblacion": 1400140,
+    "PIB_millones_USD": 7206,
+    "PPA_Miles_millones_USD": 10379,
+    "PIB_per_capita_USD": 5.177,
+    "PIB_per_capita_PPA_USD": 7.456
+  },
+  {
+    "Departamento": "VALLE DEL CAUCA",
+    "PIB_PorcentajeParticipacion.": "9.70%",
+    "Poblacion": 4520480,
+    "PIB_millones_USD": 31456,
+    "PPA_Miles_millones_USD": 45308,
+    "PIB_per_capita_USD": 7.103,
+    "PIB_per_capita_PPA_USD": 10.231
+  },
+  {
+    "Departamento": "AMAZONAS",
+    "PIB_PorcentajeParticipacion.": "0.10%",
+    "Poblacion": 74541,
+    "PIB_millones_USD": 214,
+    "PPA_Miles_millones_USD": 308,
+    "PIB_per_capita_USD": 2.936,
+    "PIB_per_capita_PPA_USD": 4.229
+  },
+  {
+    "Departamento": "ARAUCA",
+    "PIB_PorcentajeParticipacion.": "0.50%",
+    "Poblacion": 256527,
+    "PIB_millones_USD": 3186,
+    "PPA_Miles_millones_USD": 4588,
+    "PIB_per_capita_USD": 12.714,
+    "PIB_per_capita_PPA_USD": 18.312
+  },
+  {
+    "Departamento": "CASANARE",
+    "PIB_PorcentajeParticipacion.": "1.40%",
+    "Poblacion": 344040,
+    "PIB_millones_USD": 7240,
+    "PPA_Miles_millones_USD": 10428,
+    "PIB_per_capita_USD": 21.827,
+    "PIB_per_capita_PPA_USD": 31.438
+  },
+  {
+    "Departamento": "GUAINIA",
+    "PIB_PorcentajeParticipacion.": "0.03%",
+    "Poblacion": 40203,
+    "PIB_millones_USD": 104,
+    "PPA_Miles_millones_USD": 149,
+    "PIB_per_capita_USD": 2.664,
+    "PIB_per_capita_PPA_USD": 3.837
+  },
+  {
+    "Departamento": "GUAVIARE",
+    "PIB_PorcentajeParticipacion.": "0.10%",
+    "Poblacion": 107934,
+    "PIB_millones_USD": 276,
+    "PPA_Miles_millones_USD": 397,
+    "PIB_per_capita_USD": 2.629,
+    "PIB_per_capita_PPA_USD": 3.786
+  },
+  {
+    "Departamento": "PUTUMAYO",
+    "PIB_PorcentajeParticipacion.": "0.40%",
+    "Poblacion": 337054,
+    "PIB_millones_USD": 830,
+    "PPA_Miles_millones_USD": 1241,
+    "PIB_per_capita_USD": 2518,
+    "PIB_per_capita_PPA_USD": 3.766
+  },
+  {
+    "Departamento": "ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA",
+    "PIB_PorcentajeParticipacion.": "0.20%",
+    "Poblacion": 75167,
+    "PIB_millones_USD": 461,
+    "PPA_Miles_millones_USD": 664,
+    "PIB_per_capita_USD": 6.24,
+    "PIB_per_capita_PPA_USD": 8.988
+  },
+  {
+    "Departamento": "VAUPES",
+    "PIB_PorcentajeParticipacion.": "0.03%",
+    "Poblacion": 42817,
+    "PIB_millones_USD": 79,
+    "PPA_Miles_millones_USD": 114,
+    "PIB_per_capita_USD": 1.889,
+    "PIB_per_capita_PPA_USD": 2.721
+  },
+  {
+    "Departamento": "VICHADA",
+    "PIB_PorcentajeParticipacion.": "0.10%",
+    "Poblacion": 68575,
+    "PIB_millones_USD": 231,
+    "PPA_Miles_millones_USD": 333,
+    "PIB_per_capita_USD": 3.537,
+    "PIB_per_capita_PPA_USD": 5.095
+  }
+]

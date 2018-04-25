@@ -1,0 +1,233 @@
+[
+  {
+    "dptl": 1,
+    "nombre": "SANTAFE DE BOGOTA D.C",
+    "Pcabecera": 8164178,
+    "Presto": 16869,
+    "total_poblacion": 8181047
+  },
+  {
+    "dptl": 2,
+    "nombre": "ANTIOQUIA",
+    "Pcabecera": 5262172,
+    "Presto": 1428858,
+    "total_poblacion": 6691030
+  },
+  {
+    "dptl": 3,
+    "nombre": "VALLE DEL CAUCA",
+    "Pcabecera": 4169553,
+    "Presto": 586560,
+    "total_poblacion": 4756113
+  },
+  {
+    "dptl": 4,
+    "nombre": "CUNDINAMARCA",
+    "Pcabecera": 1906623,
+    "Presto": 897615,
+    "total_poblacion": 2804238
+  },
+  {
+    "dptl": 5,
+    "nombre": "ATLANTICO",
+    "Pcabecera": 2438533,
+    "Presto": 107391,
+    "total_poblacion": 2545924
+  },
+  {
+    "dptl": 6,
+    "nombre": "BOLIVAR",
+    "Pcabecera": 1693659,
+    "Presto": 477621,
+    "total_poblacion": 2171280
+  },
+  {
+    "dptl": 7,
+    "nombre": "SANTANDER",
+    "Pcabecera": 1587972,
+    "Presto": 502867,
+    "total_poblacion": 2090839
+  },
+  {
+    "dptl": 8,
+    "nombre": "NARIÑO",
+    "Pcabecera": 907590,
+    "Presto": 901526,
+    "total_poblacion": 1809116
+  },
+  {
+    "dptl": 9,
+    "nombre": "CORDOBA",
+    "Pcabecera": 950107,
+    "Presto": 838400,
+    "total_poblacion": 1788507
+  },
+  {
+    "dptl": 10,
+    "nombre": "TOLIMA",
+    "Pcabecera": 980694,
+    "Presto": 439253,
+    "total_poblacion": 1419947
+  },
+  {
+    "dptl": 11,
+    "nombre": "CAUCA",
+    "Pcabecera": 567393,
+    "Presto": 848540,
+    "total_poblacion": 1415933
+  },
+  {
+    "dptl": 12,
+    "nombre": "NORTE DE SANTANDER",
+    "Pcabecera": 1099363,
+    "Presto": 291876,
+    "total_poblacion": 1391239
+  },
+  {
+    "dptl": 13,
+    "nombre": "MAGDALENA",
+    "Pcabecera": 967669,
+    "Presto": 331022,
+    "total_poblacion": 1298691
+  },
+  {
+    "dptl": 14,
+    "nombre": "BOYACA",
+    "Pcabecera": 742812,
+    "Presto": 539251,
+    "total_poblacion": 1282063
+  },
+  {
+    "dptl": 15,
+    "nombre": "HUILA",
+    "Pcabecera": 714664,
+    "Presto": 482417,
+    "total_poblacion": 1197081
+  },
+  {
+    "dptl": 16,
+    "nombre": "CESAR",
+    "Pcabecera": 805262,
+    "Presto": 260411,
+    "total_poblacion": 1065673
+  },
+  {
+    "dptl": 17,
+    "nombre": "LA GUAJIRA",
+    "Pcabecera": 570399,
+    "Presto": 469758,
+    "total_poblacion": 1040157
+  },
+  {
+    "dptl": 18,
+    "nombre": "META",
+    "Pcabecera": 775636,
+    "Presto": 241065,
+    "total_poblacion": 1016701
+  },
+  {
+    "dptl": 19,
+    "nombre": "CALDAS",
+    "Pcabecera": 719730,
+    "Presto": 274136,
+    "total_poblacion": 993866
+  },
+  {
+    "dptl": 20,
+    "nombre": "RISARALDA",
+    "Pcabecera": 761658,
+    "Presto": 206109,
+    "total_poblacion": 967767
+  },
+  {
+    "dptl": 21,
+    "nombre": "SUCRE",
+    "Pcabecera": 596651,
+    "Presto": 280406,
+    "total_poblacion": 877057
+  },
+  {
+    "dptl": 22,
+    "nombre": "QUINDIO",
+    "Pcabecera": 506254,
+    "Presto": 68756,
+    "total_poblacion": 575010
+  },
+  {
+    "dptl": 23,
+    "nombre": "CHOCO",
+    "Pcabecera": 253058,
+    "Presto": 262087,
+    "total_poblacion": 515145
+  },
+  {
+    "dptl": 24,
+    "nombre": "CAQUETA",
+    "Pcabecera": 300012,
+    "Presto": 196229,
+    "total_poblacion": 496241
+  },
+  {
+    "dptl": 25,
+    "nombre": "CASANARE",
+    "Pcabecera": 281548,
+    "Presto": 93701,
+    "total_poblacion": 375249
+  },
+  {
+    "dptl": 26,
+    "nombre": "PUTUMAYO",
+    "Pcabecera": 179323,
+    "Presto": 179573,
+    "total_poblacion": 358896
+  },
+  {
+    "dptl": 27,
+    "nombre": "ARAUCA",
+    "Pcabecera": 172650,
+    "Presto": 98058,
+    "total_poblacion": 270708
+  },
+  {
+    "dptl": 28,
+    "nombre": "GUAVIARE",
+    "Pcabecera": 69723,
+    "Presto": 46106,
+    "total_poblacion": 115829
+  },
+  {
+    "dptl": 29,
+    "nombre": "AMAZONAS",
+    "Pcabecera": 29009,
+    "Presto": 49821,
+    "total_poblacion": 78830
+  },
+  {
+    "dptl": 30,
+    "nombre": "ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA",
+    "Pcabecera": 56487,
+    "Presto": 21926,
+    "total_poblacion": 78413
+  },
+  {
+    "dptl": 31,
+    "nombre": "VICHADA",
+    "Pcabecera": 34200,
+    "Presto": 43076,
+    "total_poblacion": 77276
+  },
+  {
+    "dptl": 32,
+    "nombre": "VAUPES",
+    "Pcabecera": 17679,
+    "Presto": 27249,
+    "total_poblacion": 44928
+  },
+  {
+    "dptl": 33,
+    "nombre": "GUAINIA",
+    "Pcabecera": 13090,
+    "Presto": 30356,
+    "total_poblacion": 43446
+  }
+]
