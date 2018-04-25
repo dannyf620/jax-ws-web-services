@@ -34,5 +34,5 @@ To see the apps copy the folders and files into the Apps forlder, the Data folde
 <p align="center">
   <img src="./pibColombia.JPG" width="350"/>
   <img src="./PoblacionColombia.JPG" width="350"/>
-  <img src="./casa.JPG" width="350"/>
+  <img src="./casa.jpg" width="350"/>
 </p>
