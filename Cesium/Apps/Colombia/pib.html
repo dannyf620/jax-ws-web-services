@@ -32,7 +32,26 @@ and open the template in the editor.
 
 
         scene = visor.scene;
-
+        var creadorPines = new Cesium.PinBuilder();
+        var pines = [];
+        function agregarPin(options) {
+            /* options
+             *   name
+             *   position */
+            var deptPin = {
+                name: options.name,
+                position: options.position,
+                billboard: {
+                    image: creadorPines.fromColor(Cesium.Color.ROYALBLUE, 48).toDataURL(),
+                    verticalOrigin: Cesium.VerticalOrigin.BOTTOM
+                }
+            };
+            pines.forEach(element => {
+                visor.entities.remove(element);
+            });
+            pines = [];
+            pines.push(visor.entities.add(deptPin));
+        }
         var entity = visor.entities.add({
             label: {
                 show: false,
@@ -143,7 +162,7 @@ and open the template in the editor.
                     var posicion = miEntidad.polygon.hierarchy.getValue().positions[0];
                     miEntidad.position = posicion;
                     miEntidad.polygon.height = 0;
-                    var porcentaje = miEntidad.properties[PIB_key]/PIB_Total*100;
+                    var porcentaje = miEntidad.properties[PIB_key] / PIB_Total * 100;
                     miEntidad.polygon.extrudedHeight = porcentaje * 50000;
                     miEntidad.label = {
                         text: miEntidad.properties.NOMBRE_DPT
@@ -155,10 +174,7 @@ and open the template in the editor.
 
                     miEntidad.label.show = true;
 
-
                 }
-
-
             }).otherwise(function (error) {
                 console.error(error);
                 console.error('No se cumplió la promesa!!');
@@ -166,6 +182,25 @@ and open the template in the editor.
 
 
         }
+        visor.selectedEntityChanged.addEventListener(function (entity) {
+            // Check if an entity with a point color was selected.
+            console.log("--->", pines.length);
+            if (Cesium.defined(entity) &&
+                Cesium.defined(entity.position)) {
+                var carto = Cesium.Ellipsoid.WGS84.cartesianToCartographic(entity.position.getValue());
+                var lon = Cesium.Math.toDegrees(carto.longitude);
+                var lat = Cesium.Math.toDegrees(carto.latitude);
+                var position = Cesium.Cartesian3.fromDegrees(lon, lat, entity.polygon.extrudedHeight.getValue());
+                var pinOptions = {
+                    name: entity.name,
+                    position: position
+                }
+                console.log(pinOptions.position.toString());
+                agregarPin(pinOptions);
+
+            }
+
+        });
 
         var carga = {};
         var pancarta = document.getElementById('toolbar');
@@ -178,33 +213,12 @@ and open the template in the editor.
                 pancarta.style.display = 'block';
 
                 if (miEntidad.position !== null && miEntidad.position !== undefined) {
-                    var position = miEntidad.position.getValue(clock.currentTime);
-                    Cesium.Ellipsoid.WGS84.cartesianToCartographic(position, cartographic);
-                    pancarta.innerHTML =
-                        'Ha seleccionado:<h1>' + miEntidad.properties.NOMBRE_DPT + '</h1>'
+
+
+
+
                 }
             }
-
-
-
-
-
-
-            //Cargar un geoJSON en un momento dado
-
-            var segundos = Math.round(Cesium.JulianDate.secondsDifference(visor.clock.currentTime, visor.clock.startTime));
-
-            if (!carga[segundos]) {
-                switch (segundos) {
-
-                    case 13:
-                        agregarGeojson('corferias.geojson', false);
-                        carga[segundos] = true;
-                        break;
-                }
-
-            }
-
 
         });
 
